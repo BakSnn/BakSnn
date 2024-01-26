@@ -7,7 +7,7 @@ Front-end developer
 My journey into the world of programming began in my school years, when I plunged headlong into learning Python. When I entered the university, my academic knowledge expanded to languages such as C++, Java and Python. However, JavaScript really captivated me, drawing me into the dynamic landscape of web development. I am currently focused on mastering React and React Native, driven by an unwavering passion for creating innovative and user-friendly applications. This ongoing commitment reflects my commitment to stay on the cutting edge of technology and offer effective solutions in the ever-evolving field of software development.
 
 * ✉️  You can contact me at [https://t.me/baksnnn](mailto:https://t.me/baksnnn)
-* 🧠  I'm learning Reactn and ReactNative
+* 🧠  I'm learning React and ReactNative
 
 ### Skills
 

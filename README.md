@@ -4,7 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer 
 -------------------
 
-My journey into the world of programming began in my school years, when I started learning Python. When I entered the university, my knowledge expanded to languages such as C++, Java and Python. However, JavaScript really fascinated me, drawing me into the dynamic landscape of web development. I am currently focused on mastering React and React Native.
+My journey into the world of programming began in my school years, when I started learning Python. When I entered the university, my knowledge expanded to languages such as C++, Java and Python. However, JavaScript really fascinated me, drawing me into the dynamic landscape of web development. I am currently focused on mastering React
+
+- 🌱 Сейчас я изучаю **React (TypeScript)**
+
+- 🔭 Сейчас я работаю над [Transport_Company_Site](https://github.com/BakSnn/Transport_Company_Site)
+
 
 * ✉️  You can contact me at [Telegram](mailto:https://t.me/baksnnn)
 

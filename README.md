@@ -7,7 +7,7 @@ My journey into the world of programming began in my school years, when I starte
 
 - 🌱 I’m currently learning **React (TypeScript)**
 
-- 🔭 I’m currently working on [Transport_Company_Site](https://github.com/BakSnn/Transport_Company_Site)
+- 🔭 I’m currently working on [Transport Company Site](https://github.com/BakSnn/Transport_Company_Site)
 
 
 * ✉️  You can contact me at [Telegram](mailto:https://t.me/baksnnn)

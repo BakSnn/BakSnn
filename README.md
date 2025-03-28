@@ -4,14 +4,6 @@
 
 My journey into the world of programming began in my school years, when I started learning Python. When I entered the university, my knowledge expanded to languages such as C++, Java and Python. However, JavaScript really fascinated me, drawing me into the dynamic landscape of web development. I am currently focused on mastering React
 
-
-- 🌱 I’m currently learning **React (TypeScript)**
-
-- 🔭 I’m currently working on [Transport Company Site](https://github.com/BakSnn/Transport_Company_Site)
-
-
-* ✉️  You can contact me at [Telegram](mailto:https://t.me/baksnnn)
-
 ### Skills
 
 
@@ -24,8 +16,6 @@ My journey into the world of programming began in my school years, when I starte
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </a>
 </p>
 

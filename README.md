@@ -31,7 +31,7 @@ My journey into the world of programming began in my school years, when I starte
   # TECH SQUAD: МИССИЯ «ИИ» - 1 место
 </div>
 <div align="center">
-  ![TechSquad](https://github.com/BakSnn/BakSnn/raw/9328f88437dce22a582fd453733962bc22258cb4/TechSquad.jpg )
+  ![TechSquad](https://github.com/BakSnn/BakSnn/raw/9328f88437dce22a582fd453733962bc22258cb4/TechSquad.jpg)
 </div>
 
 ## Проблематика:

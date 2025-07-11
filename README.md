@@ -27,11 +27,11 @@ My journey into the world of programming began in my school years, when I starte
 <a href="http://www.github.com/BakSnn"><img src="https://github-readme-stats.vercel.app/api?username=BakSnn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="BakSnn's GitHub stats" /></a>
 
 <div align="center">
-# TECH SQUAD: МИССИЯ «ИИ» - 1 место
-</div>
 
+  # TECH SQUAD: МИССИЯ «ИИ» - 1 место
+</div>
 <div align="center">
-![TechSquad](https://github.com/BakSnn/BakSnn/blob/9328f88437dce22a582fd453733962bc22258cb4/TechSquad.jpg)
+  ![TechSquad](https://github.com/BakSnn/BakSnn/raw/9328f88437dce22a582fd453733962bc22258cb4/TechSquad.jpg )
 </div>
 
 ## Проблематика:

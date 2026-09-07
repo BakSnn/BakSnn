@@ -28,7 +28,7 @@ My journey into the world of programming began in my school years, when I starte
 
 <div align="center">
 
-  # TECH SQUAD: МИССИЯ «ИИ» - 1 место
+  # [TECH SQUAD: МИССИЯ «ИИ» - 1 место 2025](https://it.fut.ru/event/gazprom-neft/tech-squad?utm_source=codenrock&utm_medium=banner&utm_campaign=promofree)
 </div>
 <div align="center">
   
@@ -45,5 +45,33 @@ My journey into the world of programming began in my school years, when I starte
 
 - [Сертификат](https://github.com/BakSnn/BakSnn/blob/9328f88437dce22a582fd453733962bc22258cb4/%D0%94%D0%9F_%20TechSquad.jpg)
 - [Презентация](https://docs.google.com/presentation/d/1emEQehXaSTQYq60dJMv-Ryjn7Tl60iUxH8Aw-arNZmg/edit?usp=sharing)
+
+<div align="center">
+
+  # [MOEX AI HACKATHON - 3 место 2026](https://hack-moex.ru/)
+</div>
+
+<div align="center">
+  
+  ![MOEX AI Hackathon](https://github.com/BakSnn/BakSnn/raw/main/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%20MOEX.png)
+</div>
+
+## Проблематика:
+
+Разработать автономного интеллектуального торгового агента на основе генеративного ИИ, способного анализировать рыночные данные Московской Биржи, технические индикаторы и новости, управлять инвестиционным портфелем и самостоятельно принимать решения о покупке, продаже или удержании активов с учётом правил риск-менеджмента.
+
+---
+
+## Решение:
+
+Разработан **MOEX Trading Agent**, объединяющий анализ рыночных данных, технических признаков и новостей, ML-модель на основе **CatBoost** и несколько специализированных **LLM-агентов**. Система автономно ранжирует торговые инструменты, формирует торговые решения, проверяет их через механизм риск-менеджмента и выполняет сделки на тестовом торговом контуре Московской Биржи.
+
+---
+
+## Ссылки:
+
+- [Сертификат](https://github.com/BakSnn/BakSnn/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20MOEX.png)
+- [Решение](https://github.com/Serfetto/MOEX-Hackathon)
+
 
 

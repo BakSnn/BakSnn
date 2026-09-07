@@ -22,9 +22,9 @@ My journey into the world of programming began in my school years, when I starte
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<!-- <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BakSnn"><img src="https://github-readme-stats.vercel.app/api?username=BakSnn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="BakSnn's GitHub stats" /></a>
+<a href="http://www.github.com/BakSnn"><img src="https://github-readme-stats.vercel.app/api?username=BakSnn&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="BakSnn's GitHub stats" /></a> -->
 
 <div align="center">
 

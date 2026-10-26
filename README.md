@@ -55,7 +55,7 @@ My journey into the world of programming began in my school years, when I starte
 
 <div align="center">
   
-  ![MOEX AI Hackathon](https://github.com/BakSnn/BakSnn/raw/main/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%20MOEX.png)
+  ![MOEX AI Hackathon](<MOEX/Хакатон MOEX.png>)
 </div>
 
 ## Проблематика:

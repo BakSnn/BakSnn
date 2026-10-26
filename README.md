@@ -74,7 +74,6 @@ My journey into the world of programming began in my school years, when I starte
 
 - [Сертификат](https://github.com/BakSnn/BakSnn/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20MOEX.png)
 - [Решение](https://github.com/Serfetto/MOEX-Hackathon)
-- [Презентация]()
 
 <br>
 
